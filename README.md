@@ -45,7 +45,7 @@ Objectif : Analyser les performances commerciales afin d’identifier les levier
       - p.py le script ayant permis le filtrage
 * dans le dossier analyse des performances :
       - tableau de bord.pbix le tableau de bord sous power bi presenté
-* lors de l'ouverture du tableau de bord une erreur sur l'emplacement des données s'affichera ce qui est normal :  <style = "color : red ;">(important)</style>
+* lors de l'ouverture du tableau de bord une erreur sur l'emplacement des données s'affichera ce qui est normal :  
      - dans power bi sur le ruban du haut dans la rubrique ACCEUIL cliquer sur transfomer les données
      - vous verez plusieurs tables
      - un message s'affichera vous demandant de modifier le chemin d'acces aux données
