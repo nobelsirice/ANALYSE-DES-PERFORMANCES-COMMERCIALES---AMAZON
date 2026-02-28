@@ -12,4 +12,17 @@ Objectif : Analyser les performances commerciales afin d’identifier les levier
 
 . Identification des catégories à fort potentiel et des tendances de consommation afin de soutenir les décisions commerciales et stratégiques, 
 
-<img width="1214" height="728" alt="image" src="https://github.com/user-attachments/assets/f7068466-708e-4cac-bb37-e8c4825cddec" />
+<h1> les statistique de ventes </h1><br>
+<H4> chaque article est mit en avant par :  </H4><br>
+<ul>
+  <li>son identifiant</li>
+  <li> son nommation </li>
+  <li> son nombre de vente </li>
+  <li> son prix unitaire   </li>
+  <li> son impacte sur le chiffre d'affaires final </li>
+  <li> son impact sur le nombre total de vente </li>
+</ul>
+<img width="1223" height="757" alt="image" src="https://github.com/user-attachments/assets/1f0b4e1e-c4d1-4933-83f1-990c072bc241" /><br>
+<H1> classification des articles en fonction de leur effectif vente ainsi que leur  poourcentages sur la vente globales </H1>
+<img width="783" height="191" alt="image" src="https://github.com/user-attachments/assets/7cd187fa-789b-4230-9126-2fc9dd9dfe89" />
+
