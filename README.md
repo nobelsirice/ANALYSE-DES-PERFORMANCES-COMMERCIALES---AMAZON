@@ -42,9 +42,9 @@ Objectif : Analyser les performances commerciales afin d’identifier les levier
      - amazon_raw.csv : le dataset d'origine
      - amazonClean.csv : le dataset apres filtrage grace au script python
 * dans le dossier python :
-      - p.py le script ayant permis le filtrage
+     - p.py le script ayant permis le filtrage
 * dans le dossier analyse des performances :
-      - tableau de bord.pbix le tableau de bord sous power bi presenté
+     - tableau de bord.pbix le tableau de bord sous power bi presenté
 * lors de l'ouverture du tableau de bord une erreur sur l'emplacement des données s'affichera ce qui est normal :  
      - dans power bi sur le ruban du haut dans la rubrique ACCEUIL cliquer sur transfomer les données
      - vous verez plusieurs tables
