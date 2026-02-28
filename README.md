@@ -1,4 +1,4 @@
-<H1> ANALYSE DES PERFORMANCES COMMERCIALES - AMAZON (POWER BI, PYTHON) <H1><br>
+ANALYSE DES PERFORMANCES COMMERCIALES - AMAZON (POWER BI, PYTHON) 
  
 Objectif : Analyser les performances commerciales afin d’identifier les leviers d’optimisation des ventes 
  
@@ -29,6 +29,11 @@ Objectif : Analyser les performances commerciales afin d’identifier les levier
 <H1>Orientation comportement client  : Appétance Client par catégories </H1><br>
 
 
-<img width="1277" height="751" alt="image" src="https://github.com/user-attachments/assets/892e1ad7-6d04-4490-a887-7eb52343543c" />
+<img width="1277" height="751" alt="image" src="https://github.com/user-attachments/assets/892e1ad7-6d04-4490-a887-7eb52343543c" /><br><br>
+
+<H1>Cathegories phares les plus reccurentes </H1>
+
+<img width="705" height="318" alt="image" src="https://github.com/user-attachments/assets/592d6f52-c6b9-41ad-acf9-449305c5d8fb" /> <img width="390" height="371" alt="image" src="https://github.com/user-attachments/assets/1e68080e-f192-41ab-9483-22630cb1c9b9" />
+
 
 
