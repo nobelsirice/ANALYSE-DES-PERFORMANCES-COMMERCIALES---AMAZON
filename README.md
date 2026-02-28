@@ -31,9 +31,23 @@ Objectif : Analyser les performances commerciales afin d’identifier les levier
 
 <img width="1277" height="751" alt="image" src="https://github.com/user-attachments/assets/892e1ad7-6d04-4490-a887-7eb52343543c" /><br><br>
 
-<H1>Cathegories phares les plus reccurentes </H1>
+<H1>Cathegories d'articles phares les plus reccurentes </H1>
 
 <img width="705" height="318" alt="image" src="https://github.com/user-attachments/assets/592d6f52-c6b9-41ad-acf9-449305c5d8fb" /> <img width="390" height="371" alt="image" src="https://github.com/user-attachments/assets/1e68080e-f192-41ab-9483-22630cb1c9b9" />
 
+<br><br>
+<h1> Telecharger le projet </h1>
 
+* dans le dossier data :
+     - amazon_raw.csv : le dataset d'origine
+     - amazonClean.csv : le dataset apres filtrage grace au script python
+* dans le dossier python :
+      - p.py le script ayant permis le filtrage
+* dans le dossier analyse des performances :
+      - tableau de bord.pbix le tableau de bord sous power bi presenté
+* lors de l'ouverture du tableau de bord une erreur sur l'emplacement des données s'affichera ce qui est normal :  <style = "color : red ;">(important)</style>
+     - dans power bi sur le ruban du haut dans la rubrique ACCEUIL cliquer sur transfomer les données
+     - vous verez plusieurs tables
+     - un message s'affichera vous demandant de modifier le chemin d'acces aux données
+     - parcourer votre appareil pour selectionner le dataset <b>amazonClean.csv<b>
 
