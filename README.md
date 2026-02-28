@@ -1,6 +1,8 @@
 <h1> ANALYSE DES PERFORMANCES COMMERCIALES - AMAZON (POWER BI, PYTHON) </h1>
+
  
-<b> Objectif : <b> Analyser les performances commerciales afin d’identifier les leviers d’optimisation des ventes 
+<h3> Objectif : <h3> Analyser les performances commerciales afin d’identifier les leviers d’optimisation des ventes 
+
  
 . Nettoyage, structuration et préparation des données de ventes à l’aide de Python (pandas), 
 
