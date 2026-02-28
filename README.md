@@ -18,7 +18,7 @@
 <H4> chaque article est mit en avant par :  </H4><br>
 <ul>
   <li>son identifiant</li>
-  <li> son nommation </li>
+  <li> sa nommation </li>
   <li> son nombre de vente </li>
   <li> son prix unitaire   </li>
   <li> son impacte sur le chiffre d'affaires final </li>
