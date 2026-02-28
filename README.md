@@ -12,4 +12,4 @@ Objectif : Analyser les performances commerciales afin d’identifier les levier
 
 . Identification des catégories à fort potentiel et des tendances de consommation afin de soutenir les décisions commerciales et stratégiques, 
 
-<img width="1244" height="750" alt="image" src="https://github.com/user-attachments/assets/cc72bb20-04fe-4da3-859c-b13f643767fb" />
+<img width="1214" height="728" alt="image" src="https://github.com/user-attachments/assets/f7068466-708e-4cac-bb37-e8c4825cddec" />
